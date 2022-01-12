@@ -1,0 +1,14 @@
+{
+    "contacts":[
+        {
+            "id": "d68eab39-3a11-439a-b932-2f26deb6d540", 
+            "name": "mathujan", 
+            "email": "mathujan@gmail.com"
+        },
+        {
+            "id": "552b1810-2b3b-4965-aac9-6180e4a02f44", 
+            "name": "John Cena", 
+            "email": "john@example.com"
+        }
+    ]
+}
